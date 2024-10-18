@@ -1,5 +1,7 @@
 # 💫 About Me:
-im wordpress and front end developer working in sujeh team <br>my skills php js react vue next wordpress theme wordpress pluing bootstrap gsap tailwind <br>
+Hi, I'm Ahmad Reza Rezaei, a passionate 23-year-old WordPress Developer currently working with the talented team at Soojeh. With a solid background in developing custom WordPress themes and plugins, I specialize in creating dynamic, user-friendly websites. I enjoy problem-solving, optimizing web performance, and continuously improving my coding skills. I’m always eager to learn new technologies and take on exciting challenges.
+
+Let’s connect and create something awesome together!
 
 
 ## 🌐 Socials:
