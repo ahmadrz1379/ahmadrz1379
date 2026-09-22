@@ -1,28 +1,36 @@
+
+
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Reza+Rezaei;WordPress+Developer+%40+Sujeh;Building+dynamic%2C+fast+websites;Always+learning+something+new" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Reza+Rezaei;WordPress+Developer+%40+Sujeh;Building+dynamic%2C+fast+websites;Always+learning+something+new"
+    alt="Typing SVG" />
 
 </div>
 
-<br/>
+<br />
 
 ## 💫 About Me
 
-I'm a 24-year-old WordPress developer, currently building things with the team at **Sujeh**. I specialize in custom WordPress themes and plugins, and I care about making sites that are fast, clean, and genuinely nice to use. Outside of WordPress, I like poking around modern JS frameworks and 3D-on-the-web stuff.
+I'm a 24-year-old WordPress developer, currently building things with the team at **Sujeh**. I specialize in custom
+WordPress themes and plugins, and I care about making sites that are fast, clean, and genuinely nice to use. Outside of
+WordPress, I like poking around modern JS frameworks and 3D-on-the-web stuff.
 
 Always up for a good problem to solve — let's connect and build something worth showing off.
 
-<br/>
+<br />
 
 ## 🌐 Find Me
 
 <p align="left">
-<a href="https://t.me/ahmadrezarezaee" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+  <a href="https://t.me/ahmadrezarezaee" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram" />
+  </a>
 </p>
 
-<br/>
+<br />
 
 ## 💻 Tech Stack
 
@@ -37,7 +45,8 @@ Always up for a good problem to solve — let's connect and build something wort
 **Frameworks & Libraries**
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React
+Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -67,23 +76,18 @@ Always up for a good problem to solve — let's connect and build something wort
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe
+Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-<br/>
+<br />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadrz1379&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrz1379&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrz1379&theme=dark&hide_border=false" alt="GitHub Streak"/>
-
-</div>
- 
-
-<sub>Built with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ahmadrz1379&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+    alt="GitHub Stats" />
 
 </div>
