@@ -81,13 +81,4 @@ Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=fo
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 <br />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ahmadrz1379&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    alt="GitHub Stats" />
-
-</div>
+ 
